@@ -19,6 +19,16 @@
       "name": "Lapis Preto Básico",
       "price": "1.50",
       "id": 4
+    },
+    {
+      "name": "Geladeira",
+      "price": "1890.44",
+      "id": 5
+    },
+    {
+      "name": "Notebook",
+      "price": "3567.87",
+      "id": 6
     }
   ]
 }
